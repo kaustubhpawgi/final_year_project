@@ -1,0 +1,6 @@
+<ul>
+    <li><Link to="/hod">hod</Link></li>
+    <li><Link to="/faculty">faculty</Link></li>
+    <li><Link to="/student">student</Link></li>
+    <li><Link to="/admin">admin</Link></li>
+  </ul>
